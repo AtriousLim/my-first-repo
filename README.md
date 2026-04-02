@@ -2,18 +2,18 @@
 
 Getting Started with GitHub. My first repository in GitHub.
 
---- Name ---
+## --- Name ---
 
-Lim, Josh Patrick U.
+## Lim, Josh Patrick U.
 
---- Course & Section ---
+## --- Course & Section ---
 
-BSIT - 2C
+## BSIT - 2C
 
---- About Me ---
+## --- About Me ---
 
-Hello! I'm Jost Patrick U. Lim, a BSIT student at Cavite State University – Imus Campus.  
-I enjoy playing a wide variety of games, including indie, horror, and RPG genres.  
+## Hello! I'm Jost Patrick U. Lim, a BSIT student at Cavite State University – Imus Campus.  
+## I enjoy playing a wide variety of games, including indie, horror, and RPG genres.  
 
-I’m passionate about coding and continuously learning new skills to create meaningful and useful projects.  
-I’m also eager to explore GitHub and discover the many possibilities it offers.
+## I’m passionate about coding and continuously learning new skills to create meaningful and useful projects.  
+## I’m also eager to explore GitHub and discover the many possibilities it offers.
